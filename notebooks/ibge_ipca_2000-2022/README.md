@@ -7,7 +7,7 @@ In this project I will analyse data gathered from IBGE in order to present an in
 In the graph presented below, which takes into account the montlhy variation in the IPCA index from 2011 to 2020, we can see a slight positive skew, indicating that the outliers of the distribution tend towards the right of the graph, pointing to a regular but otherwise small growth in inflation, with some monthly indexes on the higher numbers. 
 
 
-![](images/graph1.png)
+![](images/GRAPH1.png)
 
 
 The following graph displays the yearly variation in Mean, Median and Standard Deviation, considering the year-long accumulated inflation periods of each year from 2000 to 2022.
