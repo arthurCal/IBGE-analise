@@ -13,7 +13,7 @@ In the graph presented below, which takes into account the montlhy variation in 
 The following graph displays the yearly variation in Mean, Median and Standard Deviation, considering the year-long accumulated inflation periods of each year from 2000 to 2022.
 
 
-Considering the Monthly Variation: Mean, Median and Density figure presented above, we can see the clear relation between the positive skew and the "high" and "low" outliers on the candlesticks nearing the final periods (especially 2022). 
+Considering the Monthly Variation: Mean, Median and Density figure presented above, we can see the clear relation between the positive skew and the "high" and "low" outliers on the boxplot nearing the final periods (especially 2022). 
 
 
 Furthermore, the overall changing periods between high and low Means coupled with a similar pattern in the Medians further point to the observation made priorly that inflation grows regularly, albeit with periods of high inflation. 
